@@ -7,3 +7,5 @@ echo 'Test';
 
 echo 'test' . time2() . PHP_EOL;
 
+
+echo 'test' . time2() . PHP_EOL;
