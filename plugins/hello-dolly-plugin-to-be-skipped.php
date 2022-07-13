@@ -10,7 +10,7 @@ Description: This is not just a plugin, it symbolizes the hope and enthusiasm of
 Author: Matt Mullenweg
 Version: 1.6
 Author URI: http://ma.tt/
-UpdateURI: http://wordpress.org/plugins/hello-dolly/
+UpdateURI: http://press.org/plugins/hello-dolly/
 */
 
 function hello_dolly_get_lyric() {
