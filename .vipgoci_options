@@ -1,1 +1,1 @@
-{"phpcs-severity":1, "phpcs-sniffs-include":["Generic.PHP.DisallowShortOpenTag", "Squiz.PHP.CommentedOutCode"]}
+{"phpcs-severity":1, "phpcs-sniffs-include":["Generic.PHP.DisallowShortOpenTag", "VariableAnalysis.CodeAnalysis.VariableAnalysis.UnusedVariable"]}
