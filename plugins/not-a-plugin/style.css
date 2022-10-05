@@ -1,9 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700);@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700);
 /*!
- * Bootstrap v4.3.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Test v1.0.0 
+ * My test style
  */
 
 .table-test1 th,.table-test2 { border-color:#000000 }
