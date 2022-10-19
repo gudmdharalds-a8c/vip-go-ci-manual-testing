@@ -75,6 +75,8 @@ function dolly_css() {
 	}
 	</style>
 	";
+	
+	echo '';
 }
 
 add_action( 'admin_head', 'dolly_css' );
